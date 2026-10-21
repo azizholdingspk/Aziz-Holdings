@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azizholdings.pk/sitemap.xml
